@@ -1,11 +1,12 @@
-@import "_base.scss";
-@import "_header.scss";
-@import "_main.scss";
-@import "_footer.scss";
-
 $bg-primary: #03faee; 
 $bg-secondary: #f8f8f8; 
 $color-primary: #8b8b8b;
 $principal-shadow: #92f7f2;
+$breakpoint-mobile: 768px;
+
+@import "_base.scss";
+@import "_header.scss";
+@import "_main.scss";
+@import "_footer.scss";
 
 

@@ -5,7 +5,14 @@ h2{
     // : 10px;
 
 }
+
 .btn{
     background-color: $bg-primary;
-    
+    padding: 1%;
+    border-radius: 6px;
+}
+.heroe{
+    background-image: url('../assets/wireframe.svg');
+    height: 40vh;
+    max-width: 80vw;
 }
